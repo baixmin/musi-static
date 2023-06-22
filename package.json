@@ -1,0 +1,23 @@
+{
+  "name": "musi-static",
+  "version": "1.0.0",
+  "description": "musi static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baixmin/musi-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "musi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baixmin/musi-static/issues"
+  },
+  "homepage": "https://github.com/baixmin/musi-static#readme"
+}
